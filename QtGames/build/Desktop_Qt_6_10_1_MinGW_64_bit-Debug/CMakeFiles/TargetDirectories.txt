@@ -1,0 +1,9 @@
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/QtGames.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/QtGames_autogen_timestamp_deps.dir
+C:/Users/jayta/Desktop/game/QtGames/QtGames/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/QtGames_autogen.dir
